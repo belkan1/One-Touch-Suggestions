@@ -1,0 +1,82 @@
+[16-Oct-2019 15:58:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function distance() in /home/alixaidi/public_html/FYP/api/fetchcategory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 17
+[16-Oct-2019 15:59:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function distance() in /home/alixaidi/public_html/FYP/api/fetchcategory.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 18
+[16-Oct-2019 16:18:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/alixaidi/public_html/FYP/api/fetchcategory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 21
+[16-Oct-2019 16:31:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 11
+[16-Oct-2019 16:31:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 11
+[16-Oct-2019 16:34:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:34:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:34:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:35:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:35:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:35:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:36:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:36:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 16:36:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 10
+[16-Oct-2019 21:48:20 Asia/Karachi] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/alixaidi/public_html/FYP/api/insertreviews.php on line 21
+[16-Oct-2019 21:49:45 Asia/Karachi] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/alixaidi/public_html/FYP/api/insertreviews.php on line 21
+[21-Oct-2019 16:37:19 Asia/Karachi] PHP Warning:  include_once(includes/conn.php): failed to open stream: No such file or directory in /home/alixaidi/public_html/FYP/api/resetpassword.php on line 4
+[21-Oct-2019 16:37:19 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'includes/conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/alixaidi/public_html/FYP/api/resetpassword.php on line 4
+[21-Oct-2019 11:51:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:51:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 11:51:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:51:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 11:51:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:51:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 11:51:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:51:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 11:52:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:52:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 11:52:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:52:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 11:54:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:54:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 11:54:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 6
+[21-Oct-2019 11:54:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/alixaidi/public_html/FYP/api/forgotpassword.php on line 7
+[21-Oct-2019 16:57:57 Asia/Karachi] PHP Warning:  include_once(includes/conn.php): failed to open stream: No such file or directory in /home/alixaidi/public_html/FYP/api/resetpassword.php on line 4
+[21-Oct-2019 16:57:57 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'includes/conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/alixaidi/public_html/FYP/api/resetpassword.php on line 4
+[21-Oct-2019 16:58:05 Asia/Karachi] PHP Warning:  include_once(includes/conn.php): failed to open stream: No such file or directory in /home/alixaidi/public_html/FYP/api/resetpassword.php on line 4
+[21-Oct-2019 16:58:05 Asia/Karachi] PHP Warning:  include_once(): Failed opening 'includes/conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/alixaidi/public_html/FYP/api/resetpassword.php on line 4
+[21-Oct-2019 16:58:05 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alixaidi/public_html/FYP/api/resetpassword.php on line 71
+[22-Oct-2019 08:46:38 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:46:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:46:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:46:38 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:46:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:46:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:30 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:30 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:30 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:30 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:30 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:30 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:33 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:33 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:33 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:33 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:33 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:33 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:38 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:38 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:38 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:44 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:44 UTC] PHP Warning:  A non-numeric value encountered in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 45
+[22-Oct-2019 08:47:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[22-Oct-2019 08:47:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be float, string given in /home/alixaidi/public_html/FYP/api/fetchcategory.php on line 46
+[21-Nov-2019 15:17:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 15
+[21-Nov-2019 15:18:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 15
+[21-Nov-2019 15:18:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 15
+[21-Nov-2019 15:18:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/api/fetchdetails.php on line 15

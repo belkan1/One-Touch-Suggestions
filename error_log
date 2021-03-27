@@ -1,0 +1,8 @@
+[10-Oct-2019 21:53:01 Asia/Karachi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'alixaidi_ali  '@'localhost' (using password: YES) in /home/alixaidi/public_html/FYP/includes/conn.php on line 8
+[16-Oct-2019 18:56:06 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/viewcategory.php on line 72
+[16-Oct-2019 14:03:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/ajaxgetvendors.php on line 7
+[16-Oct-2019 14:03:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alixaidi/public_html/FYP/ajaxgetvendors.php on line 7
+[16-Oct-2019 14:46:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/alixaidi/public_html/FYP/addmenudetails.php on line 164
+[19-Oct-2019 13:08:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/alixaidi/public_html/FYP/addcategory.php on line 219
+[19-Oct-2019 13:08:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/alixaidi/public_html/FYP/addcategory.php on line 219
+[19-Oct-2019 13:08:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/alixaidi/public_html/FYP/addcategory.php on line 219
